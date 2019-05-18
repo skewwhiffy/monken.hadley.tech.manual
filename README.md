@@ -29,3 +29,11 @@ DNS records are hosted at [names.co.uk](https://login.names.co.uk/login). Creden
 
 * Log in.
 * **TODO**: Change your password.
+
+### Uploading documents for download
+
+**TODO**
+
+### Changing text on the website
+
+**TODO**
