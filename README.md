@@ -41,7 +41,7 @@ DNS records are hosted at [names.co.uk](https://login.names.co.uk/login). Creden
 * You silly sausage. You should read [this](./security.md) for some ideas how not to forget your password.
 * You need to find a system administrator to change your password for you.
 * The headteacher should be an administrator, or at least will know who is.
-* **TODO** Admin instructions for resetting passwords.
+* **TODO** Admin instructions for resetting **passwords**.
 
 ### Uploading documents for download
 
