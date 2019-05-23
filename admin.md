@@ -19,6 +19,7 @@ Below are certain tasks which you might need to do as an administrator.
 * Change the name, username, email, and user type as appropriate.
 * Untick the 'Disable Umbraco Access' and 'Disable User' boxes
 * Generally, new 'normal' users should only be granted rights to 'Content' and 'Media', so ensure that only the appropriate checkboxes are ticked under 'Sections' at the bottom of the page.
+* Normal users should be set to *Writer* as *User type*. This allows them to change and rollback content without review, but not to change things like passwords.
 * Click on the 'Save' button at the top right. If you don't do this, your changes will be forgotten, and you'll have to do it all again.
 
 ## Create new user
