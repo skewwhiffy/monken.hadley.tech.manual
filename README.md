@@ -6,7 +6,7 @@ The [Monken Hadley Website](https://monkenhadley.barnet.sch.uk) is a site to sho
 
 The Monken Hadley website is hosted at [Nutty About Hosting](https://www.nuttyabouthosting.co.uk). Credentials for the account there are held by the headteacher.
 
-DNS records are hosted at [names.co.uk](https://login.names.co.uk/login). Credentials for the account there are held by the headteacher. 
+DNS records are hosted at [names.co.uk](https://login.names.co.uk/login). Credentials for the account there are held by the headteacher.
 
 **WARNING** Changing the settings for the site is dangerous: make sure you know what you are doing before making any changes to the hosting or technical settings on this account.
 

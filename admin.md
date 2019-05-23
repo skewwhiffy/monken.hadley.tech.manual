@@ -12,7 +12,7 @@ Below are certain tasks which you might need to do as an administrator.
 
 ## Recycling a user
 
-* Login [here](https://monkenhadley.barnet.sch.uk)
+* Login [here](https://monkenhadley.barnet.sch.uk/umbraco)
 * In the left sidebar, there should be a 'Users' tab. Click on it.
 * In the left side panel, expand the 'Users' folder.
 * In the left side panel, click on a disabled user. Disabled users are faded out.
@@ -24,7 +24,7 @@ Below are certain tasks which you might need to do as an administrator.
 ## Create new user
 
 * It may be that the more appropriate course of action is to recycle an old user: Umbraco (for technical reasons) does not allow you to delete users for audit reasons.
-* Login [here](https://monkenhadley.barnet.sch.uk)
+* Login [here](https://monkenhadley.barnet.sch.uk/umbraco)
 * In the left sidebar, there should be a 'Users' tab. Click on it.
 * In the left side panel, if you float over the 'Users' folder, this should reveal an extension menu (indicated by three dots).
 * Click on the three dots.
@@ -33,7 +33,7 @@ Below are certain tasks which you might need to do as an administrator.
 
 ## Change a user's password
 
-* Login [here](https://monkenhadley.barnet.sch.uk)
+* Login [here](https://monkenhadley.barnet.sch.uk/umbraco)
 * In the left sidebar, there should be a 'Users' tab. Click on it.
 * In the left side panel, expand the 'Users' folder.
 * Click on the user whose password you want to change.
@@ -49,3 +49,9 @@ You should do this whenever someone should no longer have rights to access the w
 It's very rare for a known user to access websites with malicious intent, but the consequences can be catastrophic: for example, imagine that a disgruntled ex-member of staff accidentally retains access to the website, and uploads illegal material to the official school website. Not only does this look bad for the school, not only does the reputation of the school suffer, there may also be cripplingly expensive legal repercussions.
 
 It's very rare, of course, but best to be prepared, and make sure that the list of users who can access the system is kept up-to-date.
+
+* Login [here](https://monkenhadley.barnet.sch.uk/umbraco)
+* In the left sidebar, there should be a 'Users' tab. Click on it.
+* In the left side panel, expand the 'Users' folder.
+* Click on the user who you want to disable.
+* Tick the 'Disable Umbraco Access' checkbox.
