@@ -1,10 +1,22 @@
 # The missing guide to updating the Monken Hadley school website
 
+## Summary
+
+The objective of this guide is to act a reference to how to update the school's website. It is a dynamic document in the sense that changes can be made to it relatively easily: please ask a system administrator if you spot errors here.
+
+Once you're confident enough, try some of the tasks outlined in the [exercises](./exercises.md) to get yourself happy.
+
+### Printing this document
+
+I mean, I suppose you could, if you really wanted. But think of the trees that you would be directly responsible for killing, and what you would do if this document changes. It's probably worth you using this guide online. If you really want, you could look at this on your smartphone or pad so that you can have it by your side while you're doing work.
+
 ## Overview
 
 The [Monken Hadley Website](https://monkenhadley.barnet.sch.uk) is a site to showcase the school on the internet. It also acts as an information hub for staff and parents of students alike.
 
 The Monken Hadley website is hosted at [Nutty About Hosting](https://www.nuttyabouthosting.co.uk). Credentials for the account there are held by the headteacher.
+
+Content and documents are managed using [Umbraco](https://umbraco.com/), a piece of software called a *Content Management System*, or *CMS*. CMSs are designed so that updates to relatively simple websites (like the school's) can be done with minimal technical knowledge. It's not the easiest piece of software to learn, but it doesn't require particularly technical/geeky/scary skills.
 
 DNS records are hosted at [names.co.uk](https://login.names.co.uk/login). Credentials for the account there are held by the headteacher.
 
@@ -41,12 +53,13 @@ DNS records are hosted at [names.co.uk](https://login.names.co.uk/login). Creden
 * You silly sausage. You should read [this](./security.md) for some ideas how not to forget your password.
 * You need to find a system administrator to change your password for you.
 * The headteacher should be an administrator, or at least will know who is.
-* **TODO** Admin instructions for resetting **passwords**.
+* The procedure for resetting your password is outlined on [this page](./admin.md).
 
-### Uploading documents for download
+### Changing content
 
-**TODO**
+* Log in.
 
-### Changing text on the website
+There are two types of content on the website, and the procedures for changing them are slightly different.
 
-**TODO**
+* Straight text - see [here](./change.text.md)
+* Downloadable documents - **TODO**
