@@ -63,3 +63,11 @@ There are two types of content on the website, and the procedures for changing t
 
 * Straight text - see [here](./change.text.md)
 * Downloadable documents - **TODO**
+
+### Backup of site
+
+Backup instructions for the DB available [here](https://www.nuttyabouthosting.co.uk/knowledgebase/article/how-to-backup-your-sql-server-database)
+
+Backup instructions for files available [here](https://www.nuttyabouthosting.co.uk/knowledgebase/article/how-to-backup-website-files). When you start zipping up the files, the website might seem to hang. It *is*, actually, working really hard under the bonnet: don't navigate away from the page. When the zipping is done, click on the file (you may have to scroll down in the file list to see the new file: this confused me a couple of times) and download the file to your local computer. Clear up the backup from the server to keep things nice and neat.
+
+It is recommended that you download your backups and put them somewhere safe, possibly prefixing the file name with a date stamp (like 2019.12.25.files.zip) so that you can sort them later.
